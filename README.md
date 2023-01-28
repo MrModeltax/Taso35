@@ -5,12 +5,12 @@ class Taso {
     constructor(options) {
         this.name = "Tahsin",
         this.sex = "man",
-        this.length = "1.81",
+        this.length = "1.85",
         this.type = "human",
         this.job = "developer",
-        this.weight = "76",
+        this.weight = "84",
         this.age = "17",
-        this.discord.tag = "Papaz#9999"
+        this.discord.tag = "!Modeltax#3510"
     };
 }
 
