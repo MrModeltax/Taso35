@@ -7,7 +7,7 @@ class Taso {
         this.sex = "man",
         this.length = "1.85",
         this.type = "human",
-        this.job = "developer",
+        this.job = "developer & Mc Builder",
         this.weight = "84",
         this.age = "17",
         this.discord.tag = "!Modeltax#3510"
